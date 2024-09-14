@@ -152,7 +152,7 @@ body.single-post .onepagepro-sidebar-style-none, body.blog .onepagepro-sidebar-s
 .onepagepro-body{ font-size: 16px; } 
 .onepagepro-body, .onepagepro-body p, .onepagepro-line-height, .gdlr-core-line-height{ line-height: 1.7; } 
 .onepagepro-page-preload{ background-color: #ffffff; } 
-.onepagepro-body .onepagepro-top-notice-bar-button{ border-right-color: #b1d234; border-top-color: #b1d234; }.onepagepro-body .onepagepro-top-notice-bar-button{ border-right-color: rgba(177, 210, 52, 0.65); border-top-color: rgba(177, 210, 52, 0.65); }.onepagepro-body .onepagepro-top-notice-bar-button-mobile{ background: #b1d234; } 
+.onepagepro-body .onepagepro-top-notice-bar-button{ border-right-color: #652B2A; border-top-color: #652B2A; }.onepagepro-body .onepagepro-top-notice-bar-button{ border-right-color: #652B2A; border-top-color: #652B2A; }.onepagepro-body .onepagepro-top-notice-bar-button-mobile{ background: #b1d234; } 
 .onepagepro-body .onepagepro-top-notice-bar-button-wrap{ color: #ffffff; }.onepagepro-body .onepagepro-top-notice-bar-button-mobile{ color: #ffffff; } 
 .onepagepro-body .onepagepro-top-notice-bar{ background-color: #1b1b1b; } 
 .onepagepro-body .onepagepro-top-notice-bar{ color: #999999; } 
@@ -211,7 +211,7 @@ body.onepagepro-boxed .onepagepro-body-wrapper, .gdlr-core-page-builder .gdlr-co
 .onepagepro-page-title-wrap .onepagepro-page-title-overlay{ background-color: #2d2d2d; } 
 .onepagepro-body, .onepagepro-body span.wpcf7-not-valid-tip{ color: #efefef; } 
 .onepagepro-body h1, .onepagepro-body h2, .onepagepro-body h3, .onepagepro-body h4, .onepagepro-body h5, .onepagepro-body h6{ color: #ffffff; }.woocommerce table.shop_attributes th, .woocommerce table.shop_table th, .single-product.woocommerce div.product .product_meta .onepagepro-head{ color: #ffffff; } 
-.onepagepro-body a{ color: #b1d234; } 
+.onepagepro-body a{ color: #de8280; } 
 .onepagepro-body a:hover{ color: #91b22c; } 
 .onepagepro-body *{ border-color: #5b5b5b; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #5b5b5b; -moz-column-rule-color: #5b5b5b; -webkit-column-rule-color: #5b5b5b; } 
 .onepagepro-body input, .onepagepro-body textarea{ background-color: #282828; } 
@@ -504,7 +504,7 @@ button-border-hover-color
 .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-caption, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-caption a, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-caption a:hover{ color: #ffffff }
 .gdlr-core-page-builder-body [data-skin="Contact"], .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-content{ color: #ffffff }
 .gdlr-core-page-builder-body [data-skin="Contact"] i, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-icon, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-icon:before, .gdlr-core-page-builder-body [data-skin="Contact"] .onepagepro-widget ul li:before{ color: #ffffff }.gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-blog-modern.gdlr-core-with-image .gdlr-core-blog-info-wrapper i{ color: #ffffff; }.gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-flexslider-nav.gdlr-core-plain-circle-style li a{ border-color: #ffffff; }
-.gdlr-core-page-builder-body [data-skin="Contact"] a, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-link{ color: #b1d234 }
+.gdlr-core-page-builder-body [data-skin="Contact"] a, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-link{ color: #D4AA60 }
 .gdlr-core-page-builder-body [data-skin="Contact"] *, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-border{ border-color: #ffffff }.gdlr-core-page-builder-body [data-skin="Contact"] input:not([type="button"]):not([type="submit"]):not([type="reset"]){ border-color: #ffffff; }
 .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-skin-e-content{ color: #ffffff }.gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-flexslider-nav.gdlr-core-round-style li a i, .gdlr-core-page-builder-body [data-skin="Contact"] .gdlr-core-flexslider-nav.gdlr-core-rectangle-style li a i{ color: #ffffff; }.gdlr-core-page-builder-body [data-skin="Contact"] input:not([type="button"]):not([type="submit"]):not([type="reset"]), .gdlr-core-page-builder-body [data-skin="Contact"] textarea{ color: #ffffff; }.gdlr-core-page-builder-body [data-skin="Contact"] ::-webkit-input-placeholder{  color: #ffffff; }.gdlr-core-page-builder-body [data-skin="Contact"] ::-moz-placeholder{  color: #ffffff; }.gdlr-core-page-builder-body [data-skin="Contact"] :-ms-input-placeholder{  color: #ffffff; }.gdlr-core-page-builder-body [data-skin="Contact"] :-moz-placeholder{  color: #ffffff; }
 .gdlr-core-page-builder-body [data-skin="Dark"] .gdlr-core-button.gdlr-core-button-gradient{ background: -webkit-linear-gradient(#309cea, #0f82db); background: -o-linear-gradient(#309cea, #0f82db);  background: -moz-linear-gradient(#309cea, #0f82db); background: linear-gradient(#309cea, #0f82db); } 

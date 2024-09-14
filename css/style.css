@@ -1319,4 +1319,4 @@ html.mm-opening.onepagepro-mmenu-right .onepagepro-mobile-header{ -webkit-transf
 .sf-vertical li{ position: relative; }
 .sf-vertical ul.sub-menu{ list-style: none; position: absolute; display: none; left: 100%; top: 0px; z-index: 9; min-width: 190px; }
 .sf-vertical ul.sub-menu li{ white-space: nowrap; }
-.submit-button { font-size: 13px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.8px; padding: 15px 33px; display: inline-block; -webkit-appearance: none; background-color: #b1d234; border: 0;color: #fff; cursor: pointer;}
+.submit-button { font-size: 13px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.8px; padding: 15px 33px; display: inline-block; -webkit-appearance: none; background-color: #D4AA60; border: 0;color: #fff; cursor: pointer;}
